@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Viewer</string>
+
+<!--    auth-->
+    <string name="had_an_account">Already have an account? <b><u>Login</u></b></string>
+    <string name="no_account">Don\'t have an account? <b><u>Sign Up</u></b></string>
+    <string name="forgot_password"><b><u>Forgot Password?</u></b></string>
+</resources>
